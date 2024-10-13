@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="المطبخ المغربي التقليدي والعصري">
+    <title>المطبخ المغربي</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>المطبخ المغربي</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">الرئيسية</a></li>
+                <li><a href="traditional.html">المطبخ التقليدي</a></li>
+                <li><a href="modern.html">المطبخ العصري</a></li>
+                <li><a href="desserts.html">الحلويات</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="main">
+        <h2>مرحبًا بكم في عالم المطبخ المغربي</h2>
+        <p>اكتشفوا ألذ الأطباق المغربية التقليدية والعصرية.</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 المطبخ المغربي</p>
+    </footer>
+</body>
+</html>
+ 👋 Hi, I’m @Moroccuisine
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Moroccuisine/Moroccuisine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
